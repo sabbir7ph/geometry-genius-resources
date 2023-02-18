@@ -1,0 +1,32 @@
+.c-1 {
+    display: none;
+}
+
+.navbar-color {
+    background: rgba(16, 144, 216, 0.1);
+    border-radius: 8px;
+}
+
+#first-btn,
+#second-btn,
+#parallelogram-btn,
+#Rhombus-btn,
+#fifth-btn,
+#ellipse-btn {
+    background: #1090D8;
+    border-radius: 8px;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    border: none;
+}
+
+.convert-btn {
+    background: #1090D8;
+    color: white;
+    border-radius: 5px;
+    font-size: 10px;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
